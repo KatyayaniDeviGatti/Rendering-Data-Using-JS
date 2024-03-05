@@ -1,0 +1,18 @@
+.container{
+    max-width: 144rem;
+    padding: 0 2rem;
+    margin: 0 auto;
+}
+.products{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.product-img{
+    width: 50%;
+    height: 250px;
+}
+.header{
+    background-color: aliceblue;
+    padding: 10px;
+    width: 100%;
+}
